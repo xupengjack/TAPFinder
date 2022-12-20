@@ -8,5 +8,3 @@
 ```
 ./TAPFinder.bin -h
 ```
-# 待解决
-- HD 转录因子没有 Domain rules
