@@ -21,3 +21,6 @@ TAPFinder.final.out.tsv 包含6列
 4. 按规则该 TAP 需要具备的结构域
 5. 按规则该 TAP 不能具备的结构域
 6. 该基因实际鉴定到的结构域
+
+# 参考文献
+Wilhelmsson, Per K.I., Cornelia Mühlich, Kristian K. Ullrich和Stefan A. Rensing. 《Comprehensive Genome-Wide Classification Reveals That Many Plant-Specific Transcription Factors Evolved in Streptophyte Algae》. Genome Biology and Evolution 9, 期 12 (2017年): 3384–97. https://doi.org/10.1093/gbe/evx258.
